@@ -18,36 +18,37 @@ Link deployed Web: [Job Board ](https://job-board-laravel-production.up.railway.
 ## Models
 
 <p align="center">
-    <img src="[https://lh3.google.com/u/0/d/1u6yYHE6Yx5ZFBwdTwN0ekAOl-sbiY7PZ=w1920-h868-iv101](https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYSvn274Ox-BaglimhMoB-7KdHs9D8KVQFbBeJSKID0qxI4mUPPfggLkN_ET34dM1D1uCZRzVLEDoBkIewZRYHmBcky02g=w1920-h868)">
+    <img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYSvn274Ox-BaglimhMoB-7KdHs9D8KVQFbBeJSKID0qxI4mUPPfggLkN_ET34dM1D1uCZRzVLEDoBkIewZRYHmBcky02g=w1920-h868">
 </p>
 
 ## Features
 
 - Login/Logout
 	<p align="center">
-	<img src="[https://lh3.google.com/u/0/d/12IIMmUzezF8QEQ7vkM3IW3Si2W82R50I=w1920-h868-iv1](https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYRsMoEvRJ1n5y6q_BNoS45nVSTNbwJB0GX6hwKQSFKYD9dPGqgJ0l67TRKGu21Vna_Mdt6jAbykXgvn41AfygdqzGo9Pg=w1920-h868)">
+	<img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYRsMoEvRJ1n5y6q_BNoS45nVSTNbwJB0GX6hwKQSFKYD9dPGqgJ0l67TRKGu21Vna_Mdt6jAbykXgvn41AfygdqzGo9Pg=w1920-h868">
 	</p>
 - Employer:
 	- Add, Edit Job listings
 	- Soft Delete Job
 	<p align="center">
-	<img src="[https://lh3.google.com/u/0/d/1jges14z2CtUlFLCFdUNaOq4nLMKNFUcm=w1920-h868-iv1](https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYRlmpckwOtU7vKYFs2yQQmPzI4LHtgY1jj5TqU9qM8DeKzbfKLdaq3-Dv8qWTeLd1C9-mHO7oo-Y99IB58t5YROgvU56w=w1920-h868)">
+	<img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYRlmpckwOtU7vKYFs2yQQmPzI4LHtgY1jj5TqU9qM8DeKzbfKLdaq3-Dv8qWTeLd1C9-mHO7oo-Y99IB58t5YROgvU56w=w1920-h868">
 		</p>
 - User:
 	- View Job Information
 	- Apply with CV
 	- Cancel Application
 		<p align="center">
-	<img src="[https://lh3.google.com/u/0/d/19aiQiABTU36To5P3dq5gU4gQtp-4wf8b=w1920-h868-iv1](https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYSzv6dLWV4rL0CX8R0NLLiJrCkkyb0xhRIETetiks4YqXUTase1vY66CAy1l8KJ-XC0HThjuE_2sX6GVvwtycls6IW7AA=w1920-h868)">
+	<img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYSzv6dLWV4rL0CX8R0NLLiJrCkkyb0xhRIETetiks4YqXUTase1vY66CAy1l8KJ-XC0HThjuE_2sX6GVvwtycls6IW7AA=w1920-h868">
 		</p>
 - And some other functions...
 
 ## User guide for the website
 
 Access the website [Job Board](https://job-board-laravel-production.up.railway.app)
+
 Use this account to Login:
-	- Email: huyle.it.cv@gmail.com
-	- Password: password
+- Email: huyle.it.cv@gmail.com
+- Password: password
 
 ## Ability
 
